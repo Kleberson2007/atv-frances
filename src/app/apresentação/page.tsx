@@ -5,6 +5,6 @@ import s from "./page.module.css"
 
 export default function Home() {
   return (
-    <h1>oi</h1>
+    <h1>ola</h1>
   );
 }
