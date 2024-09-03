@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#começo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;;
+}
+
+#titulo {
+    display: flex;
+    justify-content: center;
+}
+
+#complementos {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}

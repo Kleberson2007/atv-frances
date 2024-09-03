@@ -1,10 +1,17 @@
 'use client'
 import Link from "next/link";
 import "./globals.css";
-import s from "./page.module.css"
 
 export default function Home() {
   return (
-    <h1>oi</h1>
+        <div id="começo">
+          <h1 id="titulo">trabalho de francês</h1>
+          <div id="complementos">
+            <p>participantes: Kleberson e Laura(Haru)</p>
+            <p>turma:201</p>
+          </div>
+        </div>
+
   );
 }
+
